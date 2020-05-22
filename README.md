@@ -1,2 +1,1 @@
-# heryanto.github.io
-gaada
+# gaada
